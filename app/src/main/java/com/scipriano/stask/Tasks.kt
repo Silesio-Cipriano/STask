@@ -6,6 +6,11 @@ class Tasks{
         return arrayListOf(
             Task("Estudar fisica",done = false),
             Task("Estudar quimica",done = false),
+            Task("Estudar quimica",done = false),
+            Task("Estudar quimica",done = false),
+            Task("Estudar quimica",done = false),
+            Task("Estudar quimica",done = false),
+            Task("Estudar quimica",done = false),
             Task("Estudar biologia",done = false)
         ).toList()
     }
